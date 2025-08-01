@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent_color">#FF9800</color>
+    <color name="accent_light">#FFCC80</color>
+    
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="background_color">#FAFAFA</color>
+    
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_orange">#FF9800</color>
+    <color name="error_red">#F44336</color>
+    
+    <color name="water_blue">#2196F3</color>
+    <color name="workout_green">#4CAF50</color>
+    <color name="meal_orange">#FF9800</color>
+    <color name="sleep_purple">#9C27B0</color>
+</resources>
