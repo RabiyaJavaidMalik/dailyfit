@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DailyFit</string>
+    <string name="app_tagline">Your Personal Fitness &amp; Wellness Tracker</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Onboarding -->
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+    
+    <!-- Dashboard -->
+    <string name="welcome_message">Welcome back!</string>
+    <string name="water">Water</string>
+    <string name="workout">Workout</string>
+    <string name="meals">Meals</string>
+    <string name="sleep">Sleep</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="add_water">Add Water</string>
+    <string name="log_workout">Log Workout</string>
+    <string name="log_meal">Log Meal</string>
+    <string name="log_sleep">Log Sleep</string>
+    
+    <!-- Workout -->
+    <string name="workout_type">Workout Type</string>
+    <string name="duration">Duration (minutes)</string>
+    <string name="calories_burned">Calories Burned (optional)</string>
+    <string name="notes">Notes (optional)</string>
+    <string name="save_workout">Save Workout</string>
+    <string name="running">Running</string>
+    <string name="yoga">Yoga</string>
+    <string name="gym">Gym</string>
+    <string name="custom">Custom</string>
+    
+    <!-- Meal -->
+    <string name="meal_type">Meal Type</string>
+    <string name="food_name">Food Name</string>
+    <string name="quantity">Quantity (optional)</string>
+    <string name="calories">Calories (optional)</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="save_meal">Save Meal</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="snack">Snack</string>
+    
+    <!-- Sleep -->
+    <string name="sleep_time">Sleep Time</string>
+    <string name="wake_time">Wake Time</string>
+    <string name="sleep_quality">Sleep Quality</string>
+    <string name="save_sleep">Save Sleep</string>
+    <string name="excellent">Excellent</string>
+    <string name="good">Good</string>
+    <string name="fair">Fair</string>
+    <string name="poor">Poor</string>
+    <string name="very_poor">Very Poor</string>
+    
+    <!-- History -->
+    <string name="history">History</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="this_week">This Week</string>
+    <string name="this_month">This Month</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="daily_goals">Daily Goals</string>
+    <string name="notifications">Notifications</string>
+    <string name="appearance">Appearance</string>
+    <string name="about">About</string>
+    <string name="water_goal">Water Goal (glasses)</string>
+    <string name="sleep_goal">Sleep Goal (hours)</string>
+    <string name="workout_goal">Workout Goal (minutes)</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="water_reminders">Water Reminders</string>
+    <string name="meal_reminders">Meal Reminders</string>
+    <string name="sleep_reminders">Sleep Reminders</string>
+    <string name="workout_reminders">Workout Reminders</string>
+    
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    
+    <!-- Notifications -->
+    <string name="water_reminder_title">Time to Hydrate! 💧</string>
+    <string name="water_reminder_message">Don\'t forget to drink a glass of water</string>
+    <string name="meal_reminder_title">Meal Time! 🍽️</string>
+    <string name="meal_reminder_message">Don\'t forget to log your meal</string>
+    <string name="sleep_reminder_title">Time for Bed! 😴</string>
+    <string name="sleep_reminder_message">Don\'t forget to log your sleep time</string>
+    <string name="workout_reminder_title">Workout Time! 💪</string>
+    <string name="workout_reminder_message">Time to get moving and log your workout</string>
+</resources>
